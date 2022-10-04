@@ -47,7 +47,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [Java](#java)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-- [OS](#os)
+- [Open Source](#open-source)
 - [Git](#git)
 - [Editors](#editors)
   - [Vim](#vim)
@@ -228,6 +228,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [iOS Goodies](https://ios-goodies.com). Weekly iOS newsletter. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
+- [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
 
 ### Go
 
@@ -319,7 +320,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Lua Digest](https://luadigest.immortalin.com). A regular newsletter for the Lua Programming Language.
 
-## OS
+## Open Source
 
 - [TinyOpenSource](https://tinyopensource.email). Top 5 updates from the Open-Source world, straight to your inbox. Short and Sweet.
 - [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
@@ -397,7 +398,6 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Android Weekly](https://androidweekly.net/). Free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter). A curated list of awesome Android packages and resources.
 - [Weekly Xamarin](http://weeklyxamarin.com). Xamarin development.
-- [Flutter Weekly](https://flutterweekly.net/). A weekly newsletter for flutter fans by flutter fans.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 - [Flutter Croissants](https://flutter-croissants.com/). Receive every Monday all the news about Flutter and the world of mobility.
 - [Flutter Digest](https://flutter-digest.com/). 🇫🇷 A weekly French newsletter about Flutter and Dart.
@@ -450,6 +450,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Capital minded](https://capitalminded.com). Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 - [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 - [Startup Curated](https://startup.curated.co). The startup community’s newsletter with the best content from and for founders. [Archive](https://startup.curated.co/issues).
+- [Unvalidated Ideas](https://unvalidatedideas.com). Fresh startup and SaaS ideas that you can take out and market validate every week.
 
 ## Awesome news
 
@@ -479,6 +480,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa). A daily summary of 10 Information Security news items that aren't necessarily getting a lot of attention.
 - [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 - [Advisory Week](https://advisoryweek.com/). A weekly email with a roundup of Security Advisories published by the major software vendors.
+- [Shift Security Left](https://shift-security-left.curated.co/). A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [@cossacklabs](https://twitter.com/cossacklabs).
 
 ## Miscellaneous
 
@@ -501,6 +503,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/). In Softwaretalks Newsletter, we send articles about software engineering every Thursday. (For persian users).
 - [Figures](https://joinfigures.com/). Receive high-paying tech jobs based on your minimum salary requirement.
 - [rendezvous with cassidoo](https://cassidoo.co/newsletter/). A free weekly tech newsletter with the latest web development articles, a practice technical interview question of the week, a joke, some non-technical content, and more, arriving every Sunday night/Monday morning depending on where you are in the world.
+- [No-Code Shots](https://nocodeshots.com). A curated weekly newsletter that will bring you news, updates, and tips on how to improve your No-code skills.
 
 # License
 
