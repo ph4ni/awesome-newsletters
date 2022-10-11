@@ -11,8 +11,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 - [Frontend](#frontend)
-<details>
-<summary>Expand</summary>
+  <details>
+  <summary>Expand</summary>
   - [General Web Development](#general-web-development)
   - [JavaScript](#javascript)
     - [React](#react)
@@ -26,7 +26,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
   - [HTML5](#html5)
   - [SVG](#svg)
   - [GraphQL](#graphql)
- </details>
+  </details>
 - [Programming](#programming)
   - [Common Section](#common-section)
   - [ObjectiveC](#objectivec)
